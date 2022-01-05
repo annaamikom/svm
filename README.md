@@ -1,2 +1,2 @@
 # svm
-Repositori ini digunakan untuk publish tutorial penggunaan Machine Learning Berbasiskan algoritma SVM
+Support Vector Machine (SVM) merupakan salah satu metode dalam supervised learning yang biasanya digunakan untuk klasifikasi
